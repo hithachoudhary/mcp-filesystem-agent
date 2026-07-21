@@ -1,0 +1,19 @@
+Team Meeting Notes
+
+Date: 20 July 2026
+
+Agenda:
+- Review MCP architecture
+- Discuss agent orchestration
+- Plan Gradio integration
+
+Discussion Points:
+- The LLM should decide which tool to use.
+- Tool execution should be isolated from the UI layer.
+- All file operations must be logged.
+- Destructive actions should require confirmation.
+
+Action Items:
+- Complete Gradio interface.
+- Improve file summarization capability.
+- Prepare final README documentation.

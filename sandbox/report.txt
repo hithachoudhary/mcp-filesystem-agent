@@ -1,0 +1,19 @@
+Quarterly Project Report
+
+Summary:
+The MCP Filesystem Agent project reached the prototype stage during the current sprint.
+
+Achievements:
+1. Successfully integrated GPT-OSS endpoint.
+2. Connected the application to a filesystem tool layer.
+3. Added support for creating and editing files.
+4. Implemented logging and debugging traces.
+5. Restricted access to a sandbox directory.
+
+Challenges:
+- Handling model responses that did not follow the expected JSON schema.
+- Preventing unauthorized file access outside the sandbox.
+- Managing tool execution failures gracefully.
+
+Overall Assessment:
+The project is stable and ready for UI improvements and user testing.

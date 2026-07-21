@@ -1,0 +1,23 @@
+MCP Filesystem Agent Project
+
+Objective:
+Build a chatbot that can understand natural language requests and perform file operations within a restricted sandbox directory.
+
+Features Implemented:
+- File listing
+- File reading
+- File creation
+- File editing
+- File searching
+- Tool trace display
+- Logging of tool calls
+- Sandbox security restrictions
+
+Future Enhancements:
+- Delete file support with confirmation
+- Better summarization using a second LLM pass
+- Multi-file analysis
+- Folder creation support
+
+Project Status:
+The core agent architecture is complete and functional.
